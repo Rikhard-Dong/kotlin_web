@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+{"code":200,"msg":"hello","data":{"key":"value"}}
+----
